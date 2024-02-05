@@ -12,4 +12,4 @@ In this project, I did the following
 
 The documentation is located inside the files above, happy reading!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="1452" alt="Screenshot 2023-08-23 201804" src="https://i.ibb.co/hCncjZ5/figure1-7.png">
+<img width="1452" alt="Office Net-Design" src="https://i.ibb.co/hCncjZ5/figure1-7.png">
