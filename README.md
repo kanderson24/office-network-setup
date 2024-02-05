@@ -1,6 +1,13 @@
 # Office Network Design
+Project Objectives:
+- Develop a network in Cisco Packet Tracer to establish connectivity between the ACCOUNTS and DELIVERY departments, ensuring the following:
+  - Include a minimum of two PCs within each department.
+  - Utilize an appropriate number of switches and routers in the network design.
+  - Configure all interfaces with accurate IP addresses, subnet masks, and gateways based on the provided network 192.168.40.0.
+  - Employ suitable cables to interconnect all devices in the network.
+  - Conduct communication tests between devices in both the ACCOUNTS and DELIVERY departments.
 
-In this project, I did the following
+Technologies Implemented:
 - Implementation of a basic network using a router and an access layer switch.
 - Proper cabling to connect networking devices within the network.
 - Establishment of connectivity between two networks through a router.
